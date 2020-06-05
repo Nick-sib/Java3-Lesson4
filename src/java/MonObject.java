@@ -1,5 +1,9 @@
 public class MonObject {
+<<<<<<< HEAD
+    private char[] poolLiteras;
+=======
     private char[] poolLiteras;// = {'A','B','C'};
+>>>>>>> src
     private int i;
     private char waitLitera;
 
